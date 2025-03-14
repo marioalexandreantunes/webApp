@@ -238,5 +238,3 @@ function WebSocketComponent() {
 | **FastAPI + WebSockets**           | Chats, notificações em tempo real | Média |
 | **FastAPI + GraphQL**              | Apps com queries complexas      | Alta 🚀 |
 | **FastAPI + React Server Components** | SSR, apps otimizados para SEO  | Alta 🚀 |
-
-Se precisar de mais detalhes sobre alguma abordagem, posso te ajudar! 🚀🔥
